@@ -1,6 +1,6 @@
 # echorv
 
-echorv is echo written by rust
+echorv is echo written with rust
 
 ## Usage
 
